@@ -1,8 +1,5 @@
-const ID_ARTISTA="3JCyEziWwDZksR1WY8EckM"
 
-export const URI =`https://api.spotify.com/v1/artists/${ID_ARTISTA}/top-tracks?market=us`
-
-const TOKEN ="Bearer BQBFokPrIjPldIxSpCFlwS3ZT2RQ8Z7BVlKvIgN31iA-brsO6r96XKieAUuei1UHuRNXqDj7xGcJHktV_oRtpyE9J8MpjP4fj2NYh9bHURr7Ahk3NQgJnr_nqNfsgvgoSAf7-MjRuLGslVPjZheoPPrtk5QaDL1v18AJBu9m-AzivvSLIz2_GOqaOLxrhTLEcq0"
+const TOKEN =" Bearer BQCk0tgFDYS8ocvdnM1n2XtBYdX_AvRWLflBt84zvI6y8kip0ifu0wI6fEvmkqaWfi3gNCBRxX_r1G400p55wfKdJahU27zaYgIeZVyrUVcwUzZ4z67pVzhoqNCEFFcY4-CsWZsS5B3zzkbncRl-uHYi27VAcUQS5r40cYPNhUCS_aXu4ys0JOpG2wFYmWeBHJ4"
 
 
 
